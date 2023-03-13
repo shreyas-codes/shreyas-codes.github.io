@@ -1,5 +1,3 @@
-March 30, 2021
-
 Tutorial: Web Scraping with Python Using Beautiful Soup
 =======================================================
 
@@ -909,55 +907,3 @@ If you want to go further, a good next step would be to pick a site and try some
 You may also want to keep scraping the National Weather Service, and see what other data you can extract from the page, or about your own city.
 
 Alternatively, if you want to take your web scraping skills to the next level, you can check out our interactive course, which covers both the basics of web scraping and using Python to connect to APIs. With those two skills under your belt, you’ll be able to collect lots of unique and interesting datasets from sites all over the web!
-
-Learn Python the Right Way.
----------------------------
-
-Learn Python by writing Python code from day one, right in your browser window. It's the best way to learn Python — see for yourself with one of our 60+ free lessons.
-
-![astronaut floating over code](https://web.archive.org/web/20230204233808im_/https://www.dataquest.io/wp-content/uploads/2019/10/dataquest-learn-data-science-online.gif)
-
-[Try Dataquest](https://web.archive.org/web/20230204233808/https://app.dataquest.io/signup)
-
-[](https://web.archive.org/web/20230204233808/http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.dataquest.io%2Fblog%2Fweb-scraping-python-using-beautiful-soup%2F)[](https://web.archive.org/web/20230204233808/https://twitter.com/share?url=https%3A%2F%2Fwww.dataquest.io%2Fblog%2Fweb-scraping-python-using-beautiful-soup%2F&text=Tutorial%3A+Web+Scraping+with+Python+Using+Beautiful+Soup)[](https://web.archive.org/web/20230204233808/https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.dataquest.io%2Fblog%2Fweb-scraping-python-using-beautiful-soup%2F)
-
-[beginner](https://web.archive.org/web/20230204233808/https://www.dataquest.io/blog/tag/beginner/)[data mining](https://web.archive.org/web/20230204233808/https://www.dataquest.io/blog/tag/data-mining/)[python](https://web.archive.org/web/20230204233808/https://www.dataquest.io/blog/tag/python/)[python tutorials](https://web.archive.org/web/20230204233808/https://www.dataquest.io/blog/tag/python-tutorials/)[scraping](https://web.archive.org/web/20230204233808/https://www.dataquest.io/blog/tag/scraping/)[tutorial](https://web.archive.org/web/20230204233808/https://www.dataquest.io/blog/tag/tutorial/)[Tutorials](https://web.archive.org/web/20230204233808/https://www.dataquest.io/blog/tag/tutorials/)[web scraping](https://web.archive.org/web/20230204233808/https://www.dataquest.io/blog/tag/web-scraping/)
-
-[![Vik Paruchuri](https://web.archive.org/web/20230204233808im_/https://secure.gravatar.com/avatar/9b5635cf10c931e4367f3dbe23de83c2?s=128&d=mm&r=g)](https://web.archive.org/web/20230204233808/https://www.dataquest.io/blog/author/vik/)
-
-About the author
-
-#### Vik Paruchuri
-
-Vik is the CEO and Founder of Dataquest.
-
-You May Also Like
------------------
-
-[
-
-![](https://web.archive.org/web/20230204233808im_/https://www.dataquest.io/wp-content/uploads/2019/03/statistics-for-data-science.jpg)
-
-### **Tutorial: Basic Statistics in Python — Probability**
-
-READ MORE
-
-
-
-
-
-](https://web.archive.org/web/20230204233808/https://www.dataquest.io/blog/basic-statistics-in-python-probability/)
-
-[
-
-![](https://web.archive.org/web/20230204233808im_/https://www.dataquest.io/wp-content/uploads/2022/01/python-requests-library-header.webp)
-
-### **Tutorial: An Introduction to Python Requests Library**
-
-READ MORE
-
-
-
-
-
-](https://web.archive.org/web/20230204233808/https://www.dataquest.io/blog/tutorial-an-introduction-to-python-requests-library/)
